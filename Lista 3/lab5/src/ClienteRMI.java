@@ -1,13 +1,10 @@
 /**
  * Lab05: Sistema P2P
  * 
- * Autor: Lucio A. Rocha
- * Ultima atualizacao: 22/05/2023
- * 
- * Referencias: 
- * https://docs.oracle.com/javase/tutorial/essential/io
- * http://fortunes.cat-v.org/
+ * André Luís de Oliveira (2270170) e Lucas Eduardo Pires Parra (2208490)
+ * Ultima atualizacao: 10/06/2024
  */
+
 
 import java.rmi.registry.LocateRegistry;
 import java.rmi.registry.Registry;
